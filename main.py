@@ -6,7 +6,7 @@ import webbrowser
 import datetime
 import openai
 
-# openai.api_key = os.getenv('OPENAI_API_KEY', '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')
+# openai.api_key = os.getenv('OPENAI_API_KEY', 'Your API key')
 #
 # chatStr = ""
 #
