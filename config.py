@@ -1,1 +1,1 @@
-apikey = "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"
+apikey = "Enter your key"
